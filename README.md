@@ -1,8 +1,9 @@
 # Pitch-Perfect
 An iOS app to record users voice and play back with different pitch and speed creating different "character" voices.
 
-<a href="url"><img src="https://cloud.githubusercontent.com/assets/8655417/13541949/821c3ae4-e22d-11e5-8799-d93f41ce0222.png" align="left" height="500" width="300" ></a>
+![Alt text](https://cloud.githubusercontent.com/assets/8655417/13541949/821c3ae4-e22d-11e5-8799-d93f41ce0222.png)
 
-<a href="url"><img src="https://cloud.githubusercontent.com/assets/8655417/13541947/82075a8e-e22d-11e5-9dc9-706881616af2.png" align="left" height="500" width="300" ></a>
+![Alt text](https://cloud.githubusercontent.com/assets/8655417/13541947/82075a8e-e22d-11e5-9dc9-706881616af2.png)
 
-<a href="url"><img src="https://cloud.githubusercontent.com/assets/8655417/13541948/8219cc32-e22d-11e5-98cd-158becb3c9f5.png" align="left" height="500" width="300" ></a>
+![Alt text](https://cloud.githubusercontent.com/assets/8655417/13541948/8219cc32-e22d-11e5-98cd-158becb3c9f5.png)
+
