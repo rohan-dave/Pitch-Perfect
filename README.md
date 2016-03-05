@@ -1,5 +1,5 @@
 # Pitch-Perfect
-An iOS app to record users voice and play back with different pitch and speed creating different "character" voices.
+An iOS app to record users voice and play back with different pitch and speed creating different "character" voices of a Chipmunk and Darth Vader.
 
 ![Alt text](https://cloud.githubusercontent.com/assets/8655417/13541949/821c3ae4-e22d-11e5-8799-d93f41ce0222.png)
 
